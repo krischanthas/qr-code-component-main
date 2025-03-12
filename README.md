@@ -2,6 +2,8 @@
 
 ![Design preview for the QR code component coding challenge](./images/final-design.png)
 
+- Preview - https://qr-code-component-main-amber-six.vercel.app/
+
 ## HTML Best Practices
 
 ### Semantic Structure
