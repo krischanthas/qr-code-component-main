@@ -1,11 +1,6 @@
 # Frontend Mentor - QR Code Component
 
-# Frontend Mentor - QR Code Component
-
 ![Design preview for the QR code component coding challenge](./images/final-design.png)
-![Design preview for the QR code component coding challenge](./images/final-design.png)
-
-## HTML Best Practices
 
 ## HTML Best Practices
 
